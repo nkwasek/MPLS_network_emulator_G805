@@ -1,0 +1,7 @@
+C:\Users\MEDIAEXPERT\source\repos\TSST\LabelSwitchingRouter\LabelSwitchingRouter\bin\Debug\LabelSwitchingRouter.exe.config
+C:\Users\MEDIAEXPERT\source\repos\TSST\LabelSwitchingRouter\LabelSwitchingRouter\bin\Debug\LabelSwitchingRouter.exe
+C:\Users\MEDIAEXPERT\source\repos\TSST\LabelSwitchingRouter\LabelSwitchingRouter\bin\Debug\LabelSwitchingRouter.pdb
+C:\Users\MEDIAEXPERT\source\repos\TSST\LabelSwitchingRouter\LabelSwitchingRouter\obj\Debug\LabelSwitchingRouter.csprojAssemblyReference.cache
+C:\Users\MEDIAEXPERT\source\repos\TSST\LabelSwitchingRouter\LabelSwitchingRouter\obj\Debug\LabelSwitchingRouter.csproj.CoreCompileInputs.cache
+C:\Users\MEDIAEXPERT\source\repos\TSST\LabelSwitchingRouter\LabelSwitchingRouter\obj\Debug\LabelSwitchingRouter.exe
+C:\Users\MEDIAEXPERT\source\repos\TSST\LabelSwitchingRouter\LabelSwitchingRouter\obj\Debug\LabelSwitchingRouter.pdb

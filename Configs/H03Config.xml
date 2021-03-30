@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<NAME>H03</NAME>
+	<IP>146.84.68.14</IP>
+	<PORT>375</PORT>
+	<CLOUDIP>127.0.0.1</CLOUDIP>
+	<CLOUDPORT>1230</CLOUDPORT>
+</configuration>
+
